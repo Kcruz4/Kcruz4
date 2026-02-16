@@ -1,4 +1,6 @@
 ![Banner](./banner.png)
+<img src="./banner.png" width="1200">
+
 
 
 <h1 align="center">Hi 👋 I'm Karen Cruz</h1>
