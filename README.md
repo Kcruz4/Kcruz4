@@ -1,61 +1,84 @@
-## 👋 Hi, I'm **Karen Cruz**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/karen-cruz-a5a22a322/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🎯 **Aspiring Data Scientist** passionate about turning data into insights and building data-driven solutions.  
-💻 Currently developing projects with **Python, SQL, Pandas, Matplotlib, and Scikit-learn**.  
-📊 Focused on improving my skills in **Machine Learning, Data Analysis, and Visualization**.  
+  <a href="mailto:karencruz@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="TU_LINK_PORTFOLIO">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+
+<h1 align="center">Hi 👋 I'm Karen Cruz</h1>
+<h3 align="center">Welcome to my GitHub profile! I am an aspiring Data Scientist with a technical background in Human Resources, combining analytical thinking and people-centered insight to build meaningful, data-driven solutions. Below, you’ll find more about my skills, tools, and ongoing projects. 📊</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karen-cruz-a5a22a322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Karen%20Cruz-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:karencruz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karencruz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🧠 What I’m Learning
-- Data Cleaning and Preprocessing  
+## 🚀 About Me
+
+- 🎯 **Data Scientist**
+- 💻 Working with **Python, SQL, Pandas, NumPy**
+- 📊 Focused on **Machine Learning & Data Visualization**
+- 🌍 Based in Medellin, Colombia
+
+---
+
+## 🧠 Currently Learning
+
+- Data Cleaning & Feature Engineering  
 - Machine Learning Algorithms  
-- Statistical Analysis and Hypothesis Testing  
-- Data Visualization with Matplotlib & Seaborn  
+- Statistical Analysis & Hypothesis Testing  
+- Advanced Data Visualization  
 
 ---
 
-### 🚀 Projects
-Here are some of the projects I've worked on:
-- 🎵 **Music Trends Analysis** — Exploratory Data Analysis on user listening behavior.  
-- 📈 **Customer Churn Prediction** — Machine Learning model to predict customer retention.  
-- 🏙️ **Telecom Data Study** — SQL & Python analysis of user patterns by region.  
+## 📌 Featured Projects
 
-*(You can check them in my repositories!)*  
+- 🎵 **Music Trends Analysis** — Exploratory Data Analysis on listening behavior  
+- 📈 **Customer Churn Prediction** — ML model for retention prediction  
+- 🏙️ **Telecom Data Study** — SQL & Python regional analysis  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
+
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
 
 ---
 
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karen%20Cruz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karen-cruz-a5a22a322/)
-[![Gmail](https://img.shields.io/badge/Email-karencruz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karencruz@gmail.com)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kcruz4&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kcruz4&theme=tokyonight" />
+</p>
 
 ---
 
-### 💬 Fun fact
-I love learning new data tools, and I’m always open to collaborating on meaningful data projects! 🚀
-
-
-<!--
-**Kcruz4/Kcruz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Fun Fact
+I’m passionate about transforming raw data into meaningful stories and impactful solutions 🚀
