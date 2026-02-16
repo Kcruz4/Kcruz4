@@ -1,3 +1,6 @@
+![Banner](./Screenshot 2026-02-16 175429.png)
+
+
 <h1 align="center">Hi 👋 I'm Karen Cruz</h1>
 <h3 align="center">Welcome to my GitHub profile! I am an aspiring Data Scientist with a technical background in Human Resources, combining analytical thinking and people-centered insight to build meaningful, data-driven solutions. Below, you’ll find more about my skills, tools, and ongoing projects. 📊</h3>
 
