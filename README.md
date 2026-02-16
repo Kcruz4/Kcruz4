@@ -34,11 +34,32 @@
 
 ---
 
-## 📌 Featured Projects
+## 📊 Featured Projects  
 
-- 🎵 **Music Trends Analysis** — Exploratory Data Analysis on listening behavior  
-- 📈 **Customer Churn Prediction** — ML model for retention prediction  
-- 🏙️ **Telecom Data Study** — SQL & Python regional analysis  
+### 🔎 Insight Engineering & Data Transformation  
+**Tools:** Python (Pandas, NumPy), Excel  
+Turned complex, unstructured datasets into clean, analysis-ready data pipelines. Automated repetitive processes, improved data integrity, and enabled faster, more reliable decision-making.
+
+---
+
+### 📈 Customer Intelligence & KPI Visualization  
+**Tools:** SQL, Tableau  
+Developed interactive dashboards to analyze customer behavior and performance metrics. Translated raw data into clear business insights through optimized queries and strategic visual storytelling.
+
+---
+
+### ⚙️ Operational Efficiency Optimization  
+**Tools:** Python, Exploratory Data Analysis, Data Visualization  
+Identified inefficiencies through structured EDA and KPI monitoring. Delivered data-backed recommendations to streamline workflows and support measurable performance improvements.
+
+---
+
+## 📫 Let's Connect!  
+
+📧 **Email:** karencruz0404@gmail.com  
+💼 **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/karencruz-datascientist/)  
+💻 **GitHub:** [https://github.com/yourusername](https://github.com/Kcruz4)  
+🌐 **Portfolio:** Coming Soon 🚀
 
 ---
 
