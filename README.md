@@ -1,4 +1,4 @@
-![Banner](./Screenshot 2026-02-16 175429.png)
+![Banner](./banner.png)
 
 
 <h1 align="center">Hi 👋 I'm Karen Cruz</h1>
