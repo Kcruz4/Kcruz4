@@ -1,4 +1,3 @@
-![Banner](./banner.png)
 <img src="./banner.png" width="1200">
 
 
