@@ -40,13 +40,9 @@
 **Tools:** Python (Pandas, NumPy), Excel  
 Turned complex, unstructured datasets into clean, analysis-ready data pipelines. Automated repetitive processes, improved data integrity, and enabled faster, more reliable decision-making.
 
----
-
 ### 📈 Customer Intelligence & KPI Visualization  
 **Tools:** SQL, Tableau  
 Developed interactive dashboards to analyze customer behavior and performance metrics. Translated raw data into clear business insights through optimized queries and strategic visual storytelling.
-
----
 
 ### ⚙️ Operational Efficiency Optimization  
 **Tools:** Python, Exploratory Data Analysis, Data Visualization  
