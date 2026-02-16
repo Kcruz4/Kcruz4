@@ -1,4 +1,4 @@
-<img src="./banner.png" width="1200">
+<img src="./Data Scientist.png" width="1200">
 
 
 
