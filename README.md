@@ -1,18 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/karen-cruz-a5a22a322/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:karencruz@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="TU_LINK_PORTFOLIO">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-
 <h1 align="center">Hi 👋 I'm Karen Cruz</h1>
 <h3 align="center">Welcome to my GitHub profile! I am an aspiring Data Scientist with a technical background in Human Resources, combining analytical thinking and people-centered insight to build meaningful, data-driven solutions. Below, you’ll find more about my skills, tools, and ongoing projects. 📊</h3>
 
