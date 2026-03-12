@@ -52,9 +52,12 @@ Identified inefficiencies through structured EDA and KPI monitoring. Delivered d
 
 ## 📫 Let's Connect!  
 
-📧 **Email:** karencruz0404@gmail.com  
+📧 **Email:** karencruz0404@gmail.com
+
 💼 **LinkedIn:** [https://www.linkedin.com/in/karencruz-datascientist/] 
+
 💻 **GitHub:** [https://github.com/Kcruz4)] 
+
 🌐 **Portfolio:** Coming Soon 🚀
 
 ---
