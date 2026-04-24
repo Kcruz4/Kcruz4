@@ -1,65 +1,58 @@
 <img src="./Data Scientist.png" width="1200">
 
-
-
 # Hi, I'm Karen Cruz 👋
 
-🎯 Data Scientist | Machine Learning | Data Analytics
+🎯 Data Analyst | Data Scientist | Business Intelligence
 
-I transform data into actionable business insights through end-to-end analysis, machine learning, and interactive data applications.
+I transform raw data into actionable business insights through analytics, dashboards, forecasting models, and decision-focused solutions.
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Scientist with experience working on **real-world datasets, business analysis, and data-driven decision making**.
+Data professional experienced in working with real-world datasets, business performance analysis, and data storytelling.
 
-Currently based in Australia 🇦🇺 and open to **remote opportunities worldwide**.
+Currently based in Australia 🇦🇺 and open to remote opportunities worldwide.
 
-My work focuses on:
+### Focus Areas
 
-* Exploratory Data Analysis (EDA)
-* Machine Learning fundamentals
-* Business Intelligence & data storytelling
-* Building interactive data applications
+- Data Analytics & KPI Reporting
+- SQL & Business Intelligence
+- Forecasting & Predictive Models
+- Interactive Dashboards
+- Decision-Making Support
 
 ---
 
 ## 📊 Featured Projects
 
-### 📊 Olist Operational Efficiency Analysis
+### ⚡ EV Charging Demand Forecasting
+Machine learning project forecasting EV charging demand using temporal features and rolling averages.  
+✔ MAE improved from 47.5 to 9.88  
+✔ Final R² = 0.93
 
-End-to-end analysis of e-commerce, fintech, and logistics performance.
-✔ Identified a **7.83% delivery delay rate**
-✔ Detected **payment risk factors (Boleto impact)**
-✔ Highlighted high-risk product categories
+### 📦 Olist Operational Efficiency Analysis
+Business analysis across e-commerce, fintech, and logistics operations.  
+✔ Identified 7.83% delivery delay rate  
+✔ Payment risk insights  
+✔ High-risk product categories
 
----
-
-### 🚗 Automotive Analytics Web App
-
-Interactive web application for vehicle data exploration.
-✔ Built with **Streamlit + Plotly**
-✔ Enables real-time data visualization and analysis
-
----
-
-### 🔍 Vehicle Data Explorer
-
-Exploratory data analysis project focused on vehicle datasets.
-✔ Identified pricing patterns and mileage trends
-✔ Built interactive visualizations
+### 🚗 Used Vehicle Market Analytics App
+Interactive Streamlit dashboard for used vehicle pricing and mileage trends.  
+✔ Real-time filtering  
+✔ Plotly visualizations  
+✔ Deployed web application
 
 ---
 
 ## 🛠 Tech Stack
 
-Python • Pandas • NumPy • SQL • Machine Learning • Power BI • Data Visualization
+Python • SQL • Power BI • Tableau • Pandas • NumPy • Scikit-learn • Streamlit • Git
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/karencruz-datascientist/
-* 💻 GitHub: https://github.com/Kcruz4
-* 🌐 Portfolio: https://portfolio-starter-7e4pln20p-kcruz4s-projects.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/karencruz-datascientist/  
+💻 GitHub: https://github.com/Kcruz4  
+🌐 Portfolio: https://portfolio-starter-7e4pln20p-kcruz4s-projects.vercel.app/
